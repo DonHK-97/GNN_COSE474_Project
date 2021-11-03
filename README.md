@@ -1,4 +1,7 @@
 # COSE_474_GNN_Project
+- By Hanjin Choi, Wesley Bailey, Joo Hwan Yeon, Dong Hwan Kim.
+
+To check our main project details, go take a look at GNN.pdf!
 
 In data preprocessing part_sentiment you might need...
 
