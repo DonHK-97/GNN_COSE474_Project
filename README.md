@@ -16,4 +16,4 @@ I wasn't able to find the data set that includes all the text review, ratings, a
 So I just build one!
 
 By concatanating with other dataset that includes, categories, ad_methods, time of accesses.
-Finally we now have 414,805 features of medium sized dataset for our GNN model. 
+Finally we now have 414,805 features of medium sized dataset for our GNN GCMC model. 
